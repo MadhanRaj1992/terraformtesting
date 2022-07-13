@@ -7,7 +7,7 @@ terraform {
   }
 }
 
-# Configure the AWS Provider
+# Configure the AWS Provider updated
 provider "aws" {
   region     = "us-east-1"
 }
